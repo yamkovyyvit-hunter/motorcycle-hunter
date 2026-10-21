@@ -1,0 +1,3462 @@
+[
+  {
+    "source_lot_id": "2264487",
+    "manufacturer": null,
+    "model": "ZEPHYR 750",
+    "year": null,
+    "frame_number": "ZR750C-315114",
+    "mileage_km": 31750,
+    "overall_grade": "4",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "14.10.2026",
+    "auction_lot_number": "35",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2264487",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Двигатель несколько мест ржавчины изменение цвета,Plug-cord неоригинальная деталь"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Крышка незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Радиатор незначительная ржавчина,Fin вмятина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Внешняя часть незначительная ржавчинаpolished"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Внутренняя часть незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Траверса несколько мест ржавчины"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Руль незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины несколько мест ржавчины"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Break незначительная ржавчина,Hose неоригинальная деталь,Master неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Sticker изменение цвета неоригинальная деталь"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Бак небольшая вмятина,Sticker неоригинальная деталь, Внутренняя частьAll paint"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Хвост царапины, ручкa царапины незначительная ржавчина"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Переднее крыло царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Задняя часть-fender отсутствует часть"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Амортизатор несколько мест ржавчины частичная покраска"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Swingarm царапины незначительная ржавчина paintswelled 2"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Цепь незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Звездочка неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Колесо несколько мест ржавчины"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Break незначительная ржавчина Тормозной дискworn-down,Hose неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ2"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "31,750K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Поворотник несколько мест ржавчины неоригинальная деталь paintswelled 2"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "подножка неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Фонарь царапины"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Зеркало неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель царапины незначительная ржавчина"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Exhaust-pipe незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "главная рама царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нижняя часть рамы царапины несколько мест ржавчины paintswelled 2"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Сиденьеrail царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Подножка для ног царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла несколько мест ржавчины"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:16.772487",
+        "status": "продано",
+        "starting_price_yen": 980000,
+        "current_bid_yen": null,
+        "result_price_yen": 1090000
+      }
+    ],
+    "photo": "images/2264487.jpg"
+  },
+  {
+    "source_lot_id": "2270513",
+    "manufacturer": null,
+    "model": "FXBBS1870 STREET BOB",
+    "year": null,
+    "frame_number": "5HD1YYK55NS027234",
+    "mileage_km": 15286,
+    "overall_grade": "5",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "5104",
+    "original_comment": "エンジンガード付きキズ多。",
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2270513",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Двигатель незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Крышка царапины"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Радиатор незначительная ржавчина,Fin небольшая вмятина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Внешняя часть несколько мест ржавчины"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Внутренняя часть незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Руль царапины"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Break незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Покрышка износ требует замены"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Бок царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Бак царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Хвост царапины слабо"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Переднее крыло царапины слабо"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Амортизатор незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Звездочка незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "КолесоUncleanness"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Break незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ1"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "15,286K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Фара незначительная ржавчина"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Зеркало незначительная ржавчина царапины слабо"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель несколько мест ржавчины"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Exhaust-pipe несколько мест ржавчины"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "главная рама царапины"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нижняя часть рамы царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Подножка для ног царапины незначительная ржавчина потёртость"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла незначительная ржавчина"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.586372",
+        "status": "не продано",
+        "starting_price_yen": 1170000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2270513.jpg"
+  },
+  {
+    "source_lot_id": "2270965",
+    "manufacturer": null,
+    "model": "RH1250S SPORTSTER S",
+    "year": null,
+    "frame_number": "5HD1ZC45XNS312086",
+    "mileage_km": 12801,
+    "overall_grade": "5",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "7777",
+    "original_comment": "ＥＴＣ付き。",
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2270965",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "12,801K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.691789",
+        "status": "не продано",
+        "starting_price_yen": 800000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2270965.jpg"
+  },
+  {
+    "source_lot_id": "2271312",
+    "manufacturer": null,
+    "model": null,
+    "year": null,
+    "frame_number": "JS1A1111200117350",
+    "mileage_km": 27410,
+    "overall_grade": "4",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "320",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2271312",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "27,410K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.741840",
+        "status": "не продано",
+        "starting_price_yen": 200000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2271312.jpg"
+  },
+  {
+    "source_lot_id": "2262365",
+    "manufacturer": null,
+    "model": "DL 1050 DE V-STROM",
+    "year": null,
+    "frame_number": "EF11M-101069",
+    "mileage_km": 6885,
+    "overall_grade": "6",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "14.10.2026",
+    "auction_lot_number": "414",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2262365",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "7",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Fin небольшая вмятина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "6",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Крышка царапины, Грипсы неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины слабо незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Бок царапины слабо"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Задняя часть-fender царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Стекло царапины Exchange"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Swingarm царапины"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "6",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ2"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "6,885K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель царапины paintpaint bounce"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "6",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "Крышка царапины"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла царапины слабо"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:16.567925",
+        "status": "продано",
+        "starting_price_yen": 880000,
+        "current_bid_yen": null,
+        "result_price_yen": 1110000
+      }
+    ],
+    "photo": "images/2262365.jpg"
+  },
+  {
+    "source_lot_id": "2269846",
+    "manufacturer": null,
+    "model": "FLHX1580 STREET GLIDE",
+    "year": null,
+    "frame_number": "5HD1KB4137Y610409",
+    "mileage_km": 14257,
+    "overall_grade": "4",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "234",
+    "original_comment": "電装系社外。バックギア付き。ＥＴＣ付き。アンテナ社外。フロントワイヤー類社外。各所キズ、サビ多、変色。",
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2269846",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Двигатель незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Крышка незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Низ слабо"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Воздушный фильтр незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Внешняя часть незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Внутренняя часть незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Руль царапины незначительная ржавчина, Грипсы неоригинальная деталь,Switch неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Break несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Покрышка повреждено"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Upper царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Бок царапины,Box царапины сильно"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Бак царапины,Lid неоригинальная деталь"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "СиденьеCleft неоригинальная деталь"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Box царапины незначительная ржавчина,Carrier несколько мест ржавчины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Переднее крыло царапины незначительная ржавчина дырка"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Задняя часть-fender царапины неоригинальная деталь"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Стекло неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Амортизатор незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Swingarm царапины незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Case несколько мест ржавчины"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Звездочка несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Колесо несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Break несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "3",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ1"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "14,257K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Поворотник незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Фара незначительная ржавчина затуманено,Case неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Фонарь неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Зеркало царапины"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель вмятина несколько мест ржавчины потёртость неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Exhaust-pipe несколько мест ржавчины неоригинальная деталь"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "главная рама царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нижняя часть рамы царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Подножка для ног царапины незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла царапины незначительная ржавчина"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.461122",
+        "status": "не продано",
+        "starting_price_yen": 580000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2269846.jpg"
+  },
+  {
+    "source_lot_id": "2269822",
+    "manufacturer": null,
+    "model": "GSX 1300 HAYABUSA",
+    "year": null,
+    "frame_number": "GX72B-100666",
+    "mileage_km": 7920,
+    "overall_grade": "5",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "210",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2269822",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "7,920K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.455512",
+        "status": "не продано",
+        "starting_price_yen": 700000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2269822.jpg"
+  },
+  {
+    "source_lot_id": "2270465",
+    "manufacturer": null,
+    "model": "ZX-4R",
+    "year": null,
+    "frame_number": "ZX400P-A48224",
+    "mileage_km": 2522,
+    "overall_grade": "6",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "5055",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2270465",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "2,521K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "0",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.573024",
+        "status": "не продано",
+        "starting_price_yen": 890000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2270465.jpg"
+  },
+  {
+    "source_lot_id": "2270799",
+    "manufacturer": null,
+    "model": "GSX-S 1000",
+    "year": null,
+    "frame_number": "EK1AA-100380",
+    "mileage_km": 15788,
+    "overall_grade": "5",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "7608",
+    "original_comment": null,
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2270799",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Двигатель незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Крышка незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Радиатор незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Внешняя часть царапины слабо"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Низ царапины слабо"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Руль царапины"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Покрышка износ"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Низ царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Бак царапины,PatInstalled"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Задняя часть-fender отсутствует часть"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Амортизатор царапины"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Swingarm царапины слабо"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Покрышка износ Melt"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ2"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "15,788K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Зеркало царапины"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель царапины слабо"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Exhaust-pipe незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "главная рама царапины"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Подножка для ног царапины незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла царапины"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.651493",
+        "status": "не продано",
+        "starting_price_yen": 840000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2270799.jpg"
+  },
+  {
+    "source_lot_id": "2270520",
+    "manufacturer": null,
+    "model": "Z 900 RS CAFE",
+    "year": null,
+    "frame_number": "ZR900K-013211",
+    "mileage_km": 14719,
+    "overall_grade": "5",
+    "auction_house": "BDS",
+    "auction_location": "Kanto Ranked",
+    "auction_date": "21.10.2026",
+    "auction_lot_number": "5111",
+    "original_comment": "スライダー付き削れ。ライト溶け。ＥＴＣ付き。各所キズ、変色。",
+    "translated_comment": null,
+    "source_url": "https://projapan.ru/auction/lot/2270520",
+    "inspections": [
+      {
+        "section": "Двигатель",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Двигатель",
+        "component": "Двигатель",
+        "grade": null,
+        "comment": "Двигатель незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Крышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Радиатор",
+        "grade": null,
+        "comment": "Радиатор незначительная ржавчина"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Подтёк масла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Карбюратор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Сцепление",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Двигатель",
+        "component": "Стартер",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Перед",
+        "component": "Внешняя часть вилки",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Перед",
+        "component": "Внутренняя часть вилки",
+        "grade": null,
+        "comment": "Внутренняя часть незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Траверса",
+        "grade": null,
+        "comment": "Траверса незначительная ржавчина, Верхний мост неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Руль",
+        "grade": null,
+        "comment": "Руль неоригинальная деталь, Грузики руля незначительная ржавчина неоригинальная деталь, Ручка неоригинальная деталь, Грипсы неоригинальная деталь"
+      },
+      {
+        "section": "Перед",
+        "component": "Переднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Передний тормоз",
+        "grade": null,
+        "comment": "Break незначительная ржавчина"
+      },
+      {
+        "section": "Перед",
+        "component": "Передняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Верх мотоцикла",
+        "grade": null,
+        "comment": "Upper царапины изменение цвета"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Центр мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Низ мотоцикла",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бок мотоцикла",
+        "grade": null,
+        "comment": "Бок царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Бак",
+        "grade": null,
+        "comment": "Бак царапины изменение цвета"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Сиденье",
+        "grade": null,
+        "comment": "Сиденье неоригинальная деталь"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Хвост",
+        "grade": null,
+        "comment": "Хвост царапины изменение цвета"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Переднее крыло",
+        "grade": null,
+        "comment": "Переднее крыло царапины"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Заднее крыло",
+        "grade": null,
+        "comment": "Задняя часть-fender отсутствует часть"
+      },
+      {
+        "section": "Экстерьер",
+        "component": "Стекло",
+        "grade": null,
+        "comment": "Стекло вмятина неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": null,
+        "grade": "4",
+        "comment": null
+      },
+      {
+        "section": "Зад",
+        "component": "Амортизатор",
+        "grade": null,
+        "comment": "Амортизатор неоригинальная деталь,Link неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Маятник",
+        "grade": null,
+        "comment": "Swingarm царапины"
+      },
+      {
+        "section": "Зад",
+        "component": "Цепь",
+        "grade": null,
+        "comment": "Case неоригинальная деталь"
+      },
+      {
+        "section": "Зад",
+        "component": "Звёздочка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Заднее колесо",
+        "grade": null,
+        "comment": "Колесо царапины незначительная ржавчина"
+      },
+      {
+        "section": "Зад",
+        "component": "Задний тормоз",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Зад",
+        "component": "Задняя покрышка",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Электроника",
+        "component": "Ключ",
+        "grade": null,
+        "comment": "Ключ2"
+      },
+      {
+        "section": "Электроника",
+        "component": "Спидометр",
+        "grade": null,
+        "comment": "14,719K"
+      },
+      {
+        "section": "Электроника",
+        "component": "Поворотник",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фара",
+        "grade": null,
+        "comment": "Фара царапины вмятина"
+      },
+      {
+        "section": "Электроника",
+        "component": "Аккумулятор",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Сигнал",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Фонарь",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Электроника",
+        "component": "Зеркало",
+        "grade": null,
+        "comment": "Зеркало неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Глушитель",
+        "grade": null,
+        "comment": "Глушитель царапины неоригинальная деталь"
+      },
+      {
+        "section": "Электроника",
+        "component": "Выпускной коллектор",
+        "grade": null,
+        "comment": "Exhaust-pipe царапины незначительная ржавчина неоригинальная деталь"
+      },
+      {
+        "section": "Рама",
+        "component": null,
+        "grade": "5",
+        "comment": null
+      },
+      {
+        "section": "Рама",
+        "component": "Основная рама",
+        "grade": null,
+        "comment": "главная рама царапины слабо незначительная ржавчина"
+      },
+      {
+        "section": "Рама",
+        "component": "Нижняя часть рамы",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Ограничители руля",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Рельс сиденья",
+        "grade": null,
+        "comment": "Нет замечаний"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для ног",
+        "grade": null,
+        "comment": "Подножка для ног царапины неоригинальная деталь"
+      },
+      {
+        "section": "Рама",
+        "component": "Подножка для мотоцикла",
+        "grade": null,
+        "comment": "Подножка мотоцикла царапины незначительная ржавчина"
+      }
+    ],
+    "observations": [
+      {
+        "observed_at": "2026-10-15T15:02:17.588034",
+        "status": "не продано",
+        "starting_price_yen": 900000,
+        "current_bid_yen": null,
+        "result_price_yen": 0
+      }
+    ],
+    "photo": "images/2270520.jpg"
+  }
+]
