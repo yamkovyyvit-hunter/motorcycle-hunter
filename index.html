@@ -1,1 +1,80 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Motorcycle Hunter</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #101318;
+      color: #f1f3f6;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      padding: 28px 6%;
+      border-bottom: 1px solid #303640;
+    }
+    h1 { margin: 0; font-size: 30px; }
+    header p { color: #a5acb8; }
+    main { max-width: 1100px; margin: 50px auto; padding: 0 24px; }
+    .card {
+      padding: 26px;
+      background: #1b2028;
+      border: 1px solid #303640;
+      border-radius: 14px;
+    }
+    .card h2 { margin-top: 0; }
+    .muted { color: #a5acb8; }
+    #batches { display: grid; gap: 16px; }
+    a { color: #91bcff; }
+    .batch {
+      display: block;
+      padding: 20px;
+      background: #1b2028;
+      border: 1px solid #303640;
+      border-radius: 12px;
+      text-decoration: none;
+      color: white;
+    }
+    .batch:hover { border-color: #91bcff; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🏍 MOTORCYCLE HUNTER</h1>
+    <p>Japanese Motorcycle Auction Intelligence</p>
+  </header>
+  <main>
+    <div class="card">
+      <h2>Пакеты для анализа</h2>
+      <p class="muted">Hunter публикует партии по 10 мотоциклов.</p>
+      <div id="batches">Пока опубликованных пакетов нет.</div>
+    </div>
+  </main>
+  <script>
+    fetch('./batches.json')
+      .then(r => {
+        if (!r.ok) throw new Error('Нет списка пакетов');
+        return r.json();
+      })
+      .then(batches => {
+        const container = document.getElementById('batches');
+        container.textContent = '';
+        if (!batches.length) {
+          container.textContent = 'Пока опубликованных пакетов нет.';
+          return;
+        }
+        batches.forEach(batch => {
+          const a = document.createElement('a');
+          a.className = 'batch';
+          a.href = './batches/' + encodeURIComponent(batch.id) + '/index.html';
+          a.textContent = batch.title || batch.id;
+          container.appendChild(a);
+        });
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>
